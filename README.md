@@ -2,7 +2,9 @@
 
 Un servidor API REST en Python para descargar videos de YouTube.
 
-## 📁 Estructura del Proyecto
+<details>
+  <summary> 📁 Estructura del Proyecto </summary>
+
 
 ```
 yt-downloader-backend/
@@ -53,6 +55,9 @@ yt-downloader-backend/
 ├── .env.example                   # Ejemplo de configuración
 └── .gitignore                     # Archivos ignorados por Git
 ```
+
+  
+</details>
 
 ## 🚀 Inicio Rápido
 
@@ -244,3 +249,4 @@ Proyecto desarrollado para uso educativo y personal.
 ---
 
 Accede a http://localhost:8000/docs para la documentación interactiva.
+
